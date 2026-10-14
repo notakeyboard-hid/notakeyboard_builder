@@ -103,7 +103,7 @@ if response1 in ("y", "yes"):
     webbrowser.open("https://ddconverter.github.io/")
 
 if response2 in ("y", "yes"):
-    webbrowser.open("https://simplehost.onrender.com/notakeyboard/")
+    webbrowser.open("https://notakeyboard-hid.github.io/")
 
 if response1 in ("n", "no") and response2 in ("n", "no"):
     print("Press any key to exit...")
