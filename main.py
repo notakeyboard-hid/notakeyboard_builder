@@ -96,7 +96,7 @@ else:
 
 # Exiting
 
-response1 = input("Do you want to open a converter website (y/n): ").strip().lower()
+response1 = input("Do you want to open a converter website for Ducky script to python (y/n): ").strip().lower()
 response2 = input("Do you want to open the official documentation (y/n): ").strip().lower()
 
 if response1 in ("y", "yes"):
